@@ -101,6 +101,7 @@ The project was deployed using Netlify App as a hosting platform. Static files a
 * Type git clone and paste the URL copied earlier. 
 * Press enter.
 * Repository is copied. 
+* Navigate to the "Run" or "Terminal" tab and click on the "Run Active File" or "Run Without Debgging" to run the project.
 
 
 ##### IDE Development Setup
@@ -112,6 +113,10 @@ This project can be easily accessed using Integrated Development Environment too
 * <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>
 
 Download and install either of these IDEs and clone the <a href="https://github.com/Nino-Of-Tech/Level-Up-Project" target="_blank">Level Up</a> repository. Or follow the steps above. 
+
+A live website can be found on Netlify (https://levelup-project.netlify.app/)
+
+The repository can be found on Github (https://github.com/Nino-Of-Tech/Level-Up-Project)
 
 
 # Credits :raised_hands:

@@ -545,7 +545,7 @@ footer .copyright{
 /* Businesses Page */
 
 #page-header{
-    background-image: url('https://img.freepik.com/premium-vector/dynamic-purple-lines-background-vector-design_475148-636.jpg');
+    background-image: url('https://t4.ftcdn.net/jpg/04/19/76/07/360_F_419760725_gjProGIuCWJjwfQ2ljv9KAUyqcEAahz6.jpg');
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -655,7 +655,7 @@ footer .copyright{
 /* Customer Management Page */
 
 #page-header.customer-header{
-    background-image: url('https://media.istockphoto.com/id/1132930261/photo/full-length-body-size-side-profile-photo-jumping-high-beautiful-she-her-lady-hands-arms-up.jpg?s=170667a&w=0&k=20&c=pVc8zDviE3anf3RvU20N-bbGgjSbhz3qiehYdyABE6s=');
+    background-image: url('https://media.istockphoto.com/id/1176600769/photo/group-of-happy-kids-jump-very-high-over-clear-sky.jpg?s=170667a&w=0&k=20&c=IAmjvveFRrMdDpxYSBvscpKac-5MQ6TzLLxvrfhHfOA=');
 }
 
 
@@ -729,7 +729,7 @@ footer .copyright{
 /* About Page */
 
 #page-header.about-header{
-    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20210902/pngtree-city-building-blue-technology-banner-background-image_785461.jpg');
+    background-image: url('https://t4.ftcdn.net/jpg/03/30/21/03/360_F_330210333_RUSquLuIjLTCyb36IWNV9BPxX3XYIPSZ.jpg');
 }
 
 #about-head{
@@ -750,6 +750,10 @@ footer .copyright{
 
 
 /* Contact Page */
+
+#page-header.contact-header{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20210902/pngtree-city-building-blue-technology-banner-background-image_785461.jpg');
+}
 
 #contact-details{
     display: flex;
@@ -858,3 +862,121 @@ footer .copyright{
     font-weight: 600;
     color: #000;
 }
+
+
+/* Cart Page */
+
+#page-header.cart-header{
+    background-image: url('https://api.time.com/wp-content/uploads/2022/11/NeuroShopping.jpg');
+}
+
+#cart table{
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    white-space: nowrap;
+}
+
+#cart table img {
+    width: 70px;
+}
+
+#cart table td:nth-child(1){
+    width: 100px;
+    text-align: center;
+}
+
+#cart table td:nth-child(2){
+    width: 150px;
+    text-align: center;
+}
+
+#cart table td:nth-child(3){
+    width: 250px;
+    text-align: center;
+}
+
+#cart table td:nth-child(4),
+#cart table td:nth-child(5),
+#cart table td:nth-child(6){
+    width: 150px;
+    text-align: center;
+}
+
+#cart table td:nth-child(5) input{
+    width: 70px;
+    padding: 10px 5px 10px 15px;
+}
+
+#cart table thead {
+    border: 1px solid #e2e9e1;
+    border-left: none;
+    border-right: none;
+}
+
+#cart table thead td{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 13px;
+    padding: 18px 0;
+}
+
+#cart table thead tr td{
+    padding-top: 15px;
+}
+
+#cart table thead td{
+    font-size: 13px;
+}
+
+#cart-add{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#coupon{
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+#coupon h3,
+#subtotal h3 {
+    padding-bottom: 15px;
+}
+
+#coupon input{
+    padding: 10px 20px;
+    outline: none;
+    width: 60;
+    margin-right: 10px;
+    border: 1px solid #e2e9e1;
+}
+
+#coupon button,
+#subtotal button {
+    background-color: #088178;
+    color: #fff;
+    padding: 12px 20px;
+}
+
+#subtotal{
+    width: 50%;
+    margin-bottom: 30px;
+    border: 1px solid #e2e9e1;
+    padding: 30px;
+}
+
+#subtotal table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#subtotal table td{
+    width: 50%;
+    border: 1px solid #e2e9e1;
+    padding: 10px;
+    font-size: 13px;
+}
+
